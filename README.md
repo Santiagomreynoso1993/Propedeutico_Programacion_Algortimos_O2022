@@ -28,10 +28,11 @@ En este repositorio se encontrarás las notas para el curso propedéutico de pro
    3. Manejo de matrices y vectores con numpy
    4. Aplicaciones
 
-`Módulo 3.`  **Manejo de librerías en python: pandas**
-> No podemos trabajar con datos si no tenemos los datos. En este módulo aprenderemos a utilizar la librería de análisis de datos de Python: Pandas. Al finalizar la semana habrás aprendido a leer y a escribir datos, extraer características importantes de los datos, agrupar y organizar datos, entre otros.
+`Módulo 3.`  **Manejo de librerías en python: pandas, Algortimos ML**
+> No podemos trabajar con datos si no tenemos los datos. En este módulo aprenderemos a utilizar la librería de análisis de datos de Python: Pandas. Al finalizar la semana habrás aprendido a leer y a escribir datos, extraer características importantes de los datos, agrupar y organizar datos, entre otros. Además, aprenderás a implementar algunos de los algoritmos más conocidos en el área de aprendizaje automático.
 
    1. Librería pandas
    2. ¿Cómo podemos importar datos con pandas?
    3. Limpieza de datos con pandas
    4. Aplicaciones
+   5. Aprendizaje Supervizado y No Supervizado.
